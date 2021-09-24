@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    
+}
+
+#gameimg
+{
+    height: 600px;
+}
+
+#gameimg:hover{
+    transform: scale(0.8);
+    transition: smooth;
+}
+
+
+
+#apps
+{
+    background-color: aqua;
+}
+
+#games
+{
+    background-color: bisque;
+}
+
+#chatbotyay
+{
+    background-color: gray;
+}
